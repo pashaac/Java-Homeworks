@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="artifacts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/IterativeParallelismTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/WalkTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/HelloUDPTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/ParallelMapperTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/WebCrawlerTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/ImplementorTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-advanced-2016/artifacts/ArraySetTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
